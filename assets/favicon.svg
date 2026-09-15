@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <title>Chakravision</title>
+  <rect width="512" height="512" rx="96" fill="#fff"/>
+  <g transform="translate(20 107) scale(1.57)" fill="#161616">
+    <defs><clipPath id="iris"><circle cx="150" cy="95" r="57"/></clipPath></defs>
+    <path d="M12 97C40 42 90 14 149 14c58 0 112 30 139 72-43-31-85-47-138-47C95 39 49 56 12 97Z"/>
+    <path d="M12 110c43 32 87 48 138 48 54 0 100-18 138-52-30 50-82 76-139 76-58 0-108-25-137-72Z"/>
+    <g clip-path="url(#iris)" stroke="#fff" stroke-width="3.5">
+      <path d="M91 27h127l-66 43-24 41Z"/>
+      <path d="M91 27h127l-66 43-24 41Z" transform="rotate(60 150 95)"/>
+      <path d="M91 27h127l-66 43-24 41Z" transform="rotate(120 150 95)"/>
+      <path d="M91 27h127l-66 43-24 41Z" transform="rotate(180 150 95)"/>
+      <path d="M91 27h127l-66 43-24 41Z" transform="rotate(240 150 95)"/>
+      <path d="M91 27h127l-66 43-24 41Z" transform="rotate(300 150 95)"/>
+    </g>
+    <path d="m141 82 24 14-24 14Z"/>
+  </g>
+</svg>
